@@ -1,7 +1,8 @@
 
 import formidable from 'formidable';
 import fs from 'fs';
-import { analyzeImage } from '../../../lib/chorusEngine';
+import { analyzeImage } from '../../lib/chorusEngine';
+
 
 export const config = {
   api: {
